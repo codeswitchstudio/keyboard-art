@@ -32,7 +32,7 @@ function draw() {
   // background("#01D4EA");
   // stroke("#00BCD4");
   stroke(100)
-  background("#FBFBFB");
+  background("#FFFFFF");
   strokeWeight(4);
   // fill(50, 60, 250, 30);
 
